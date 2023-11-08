@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Sou estudante de Front end <br>📝  Estudo programação raiz, de forma autodidata<br>👨🏼‍💻  Estudar programação é meu hob, 10hr/s por dia<br>📚  Sem faculdade/curso caro, somento minha força de vontade 
+💻  Sou estudante de Front end <br>📝  Estudo programação,de forma autodidata<br>👨🏼‍💻  Estudar programação é meu hob<br>📚  I have nothing to Lose!
 
 
 ## 🌐 Socials:
