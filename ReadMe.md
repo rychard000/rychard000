@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Sou estudante de Front end <br>📝  Estudo programação,de forma autodidata<br>👨🏼‍💻  Estudar programação é meu hob<br>📚  I have nothing to Lose!
+💻  Sou estudante de Front end <br>📝  Estudo programação,de forma autodidata<br>👨🏼‍💻  Estudar programação é meu hob<br>📚  Desenvolvimento Web
 
 
 ## 🌐 Socials:
