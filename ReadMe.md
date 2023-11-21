@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Sou estudante de Front end <br>📝  Estudo programação,de forma autodidata<br>👨🏼‍💻  Estudar programação é meu hob<br>📚  Desenvolvimento Web
+💻  Sou estudante de Front end <br>📝  Estudo programação,de forma autodidata<br>👨🏼‍💻  "Vc pode aprender tudo o que quiser, vc só não sabe quanto tempo vai levar"<br>📚  Desenvolvimento Web
 
 
 ## 🌐 Socials:
