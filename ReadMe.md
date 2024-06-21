@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻  Fron End Developer <br>📚  Desenvolvimento Web
+💻  Full-Stack Developer <br>📚  Desenvolvimento Web
 
 
 ## 🌐 Socials:
